@@ -9,8 +9,23 @@ http://justinvincent.com/ezsql
 https://github.com/ezSQL/ezSQL
 
 
+## Add reference to this repo in composer.json ##
+```
+    ...
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kidzen/ezsql-mysqli"
+        }
+    ]
+    ...
+
+```
+
 ## Run via composer ##
 
 ```
 $ composer require sunaryohadi/ezsql-mysqli
 ```
+
+

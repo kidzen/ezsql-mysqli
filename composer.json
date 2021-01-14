@@ -9,11 +9,12 @@
 		},
 		{
 			"name": "Sunaryo Hadi"
+		},
+		{
+			"name": "Zahrin Azam",
+			"email": "zahrin.azam@rekamy.com"
 		}
-],
-	"require": {
-		
-	},
+	],
 	"autoload": {
 		"classmap": [
 			"mysqli/ez_sql_mysqli.php",
